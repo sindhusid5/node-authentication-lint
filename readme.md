@@ -7,13 +7,13 @@
 1. **Clone the repository to your local machine:**
 
    ```bash
-   git clone <repository-url>
+   git clone  https://github.com/sindhusid5/node-authentication-lint.git 
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd assignment6
+   cd node-authentication-lint
    ```
 
 4. **Install dependencies:**
